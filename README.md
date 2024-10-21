@@ -2,7 +2,7 @@
   <img width="700" height="250" src="images/cybersecurity.png">
 </p>
 
-# Awesome Cybersecurity Handbooks [![Awesome](https://cdn.rawgit.com//media/badge.svg)](https://github.com/)
+# Cybersecurity [![Awesome](https://cdn.rawgit.com//media/badge.svg)](https://github.com/)
 
 ![GitHub stars](https://img.shields.io/github/stars/0xsyr0/?logoColor=yellow) ![GitHub forks](https://img.shields.io/github/?logoColor=purple) ![GitHub watchers](https://img.shields.io/github/watchers?logoColor=green)</br>
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/m/0xsyr0/Awesome-Cybersecurity-Handbooks) ![GitHub contributors](https://img.shields.io/github/contributors/)
